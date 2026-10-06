@@ -2,12 +2,11 @@
 
 ![Lukas Melgar](./assets/banner-c.svg)
 
-# Lukas Melgar
-
 </div>
 
 ## about
 
+**Lukas Melgar**
 Developer & founder, 19
 
 I build web apps from problems I know firsthand.
