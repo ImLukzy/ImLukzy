@@ -20,26 +20,9 @@ lukas = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,java,go,nodejs,react,nextjs,astro,tailwind,postgres,docker,linux,git,vscode,idea&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,py,java,go,nodejs,react,nextjs,tailwind,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
 </div>
-
-## stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ImLukzy&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=ImLukzy&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImLukzy&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-## featured
-
-| | |
-|---|---|
-| [**ReservaYa.site**](https://github.com/ImLukzy/ReservaYa.site) — reservas full-stack (Astro + Next.js API) | [**portafolio-fullstack**](https://github.com/ImLukzy/portafolio-fullstack) — portafolio personal con CMS |
-| [**UniversoAgustino**](https://github.com/ImLukzy/UniversoAgustino) | [**tecsup_community**](https://github.com/ImLukzy/tecsup_community) |
 
 <div align="center">
 
