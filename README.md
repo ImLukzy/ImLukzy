@@ -6,7 +6,7 @@
 
 ## about
 
-**Lukas Melgar Casimiro**
+**Lukas Melgar**
 Developer, Arequipa · Peru
 
 I build web apps from problems I know firsthand.
