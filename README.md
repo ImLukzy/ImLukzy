@@ -1,6 +1,6 @@
 <div align="center">
 
-![ImLukzy](./assets/banner-rojo.svg)
+![ImLukzy](./assets/banner.svg)
 
 </div>
 
