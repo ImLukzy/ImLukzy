@@ -20,7 +20,7 @@ lukas = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,java,go,nodejs,react,nextjs,tailwind,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,py,java,react,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
