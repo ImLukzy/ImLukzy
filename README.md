@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/red-monster.gif" width="200" alt="red monster"/>
-
 ![ImLukzy](./assets/banner.svg)
 
 </div>
