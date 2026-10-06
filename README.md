@@ -26,7 +26,6 @@ Graduated in Software Design and Development at Tecsup with all courses passed. 
 ```ts
 const lukzy = {
   role: "Full-stack developer & founder",
-  base: "Perú 🇵🇪",
   education: "Software Design & Development — Tecsup",
   focus: ["web apps", "REST APIs", "real problems, real users"],
   status: "building 🩸",
