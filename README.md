@@ -26,7 +26,7 @@ Graduated in Software Design and Development. Did 280 hours of pre-professional 
 
 | Project | What | Stack |
 |---|---|---|
-| [**ReservaYa**](https://github.com/ImLukzy/ReservaYa.site) | Booking app | Astro + Next.js API |
+| [**ReservaYa**](https://www.reservaya.site) | Booking app | Astro + Next.js API |
 | [**UniversoAgustino**](https://www.universoagustino.site) | Live website | TypeScript |
 | [**Lukzy.com**](https://github.com/ImLukzy/portafolio-fullstack) | Personal portfolio with built-in CMS | React · Tailwind · Neon PostgreSQL · Cloudflare R2 |
 | **Fibertell S.A.C.** | Intern, Jan–Mar 2026 | Frontend · Backend · REST APIs · Scrum |
