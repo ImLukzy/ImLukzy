@@ -19,7 +19,7 @@ Work
 - Fibertell S.A.C. — intern, Jan–Mar 2026
 
 Contact
-[lukas.melgar@tecsup.edu.pe](mailto:lukas.melgar@tecsup.edu.pe) · [LinkedIn](https://www.linkedin.com/in/lukas-melgar-casimiro-90b41b3a7/) · [GitHub](https://github.com/ImLukzy)
+[iam.lukzy](mailto:iam.lukzy@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lukas-antonio-melgar-casimiro-90b41b3a7/)
 
 ## core skills
 
