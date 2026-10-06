@@ -7,7 +7,7 @@
 ## about
 
 **Lukas Melgar**  
-Developer & founder·19
+Developer & founder · 19
 
 I build web apps from problems I know firsthand.
 
