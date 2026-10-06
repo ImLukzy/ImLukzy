@@ -28,9 +28,3 @@ Contact
 [![Skills](https://skillicons.dev/icons?i=ts,py,java,react,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
 </div>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=ImLukzy&color=ff2a2a&style=flat-square)
-
-</div>
