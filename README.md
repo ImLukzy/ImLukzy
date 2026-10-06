@@ -2,8 +2,6 @@
 
 ![ImLukzy](./assets/banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Linux+%28CachyOS+%2B+HyDE%29;Arequipa%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA)](https://github.com/ImLukzy)
-
 </div>
 
 ## about
@@ -30,9 +28,9 @@ lukas = {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ImLukzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=ImLukzy&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImLukzy&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ImLukzy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=ImLukzy&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImLukzy&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -45,6 +43,6 @@ lukas = {
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ImLukzy&color=7dcfff&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=ImLukzy&color=ff2a2a&style=flat-square)
 
 </div>
