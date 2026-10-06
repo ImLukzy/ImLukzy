@@ -19,7 +19,7 @@ Work
 - Fibertell S.A.C. — intern, Jan–Mar 2026
 
 Contact
-[iam.lukzy](mailto:iam.lukzy@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lukas-antonio-melgar-casimiro-90b41b3a7/)
+[iam.lukzy](mailto:iam.lukzy@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lukas-antonio-melgar-casimiro-90b41b3a7/) · [X](https://x.com/LukzyM4lgar)
 
 ## core skills
 
