@@ -14,7 +14,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🩸 about
+## about
 
 **Lukas Melgar**  
 Developer & founder · 19
@@ -28,20 +28,20 @@ const lukzy = {
   role: "Full-stack developer & founder",
   education: "Software Design & Development — Tecsup",
   focus: ["web apps", "REST APIs", "real problems, real users"],
-  status: "building 🩸",
+  status: "building",
 };
 ```
 
-## ⚰️ work
+## work
 
 | Project | What | Stack |
 |---|---|---|
-| 🩸 [**ReservaYa**](https://github.com/ImLukzy/ReservaYa.site) | Bookings full-stack | Astro + Next.js API |
-| 🩸 [**UniversoAgustino**](https://www.universoagustino.site) | Live website | TypeScript |
-| 🩸 [**Lukzy.com**](https://github.com/ImLukzy/portafolio-fullstack) | Personal portfolio with built-in CMS | React · Tailwind · Neon PostgreSQL · Cloudflare R2 |
-| 🩸 **Fibertell S.A.C.** | Intern, Jan–Mar 2026 | Frontend · Backend · REST APIs · Scrum |
+| [**ReservaYa**](https://github.com/ImLukzy/ReservaYa.site) | Bookings full-stack | Astro + Next.js API |
+| [**UniversoAgustino**](https://www.universoagustino.site) | Live website | TypeScript |
+| [**Lukzy.com**](https://github.com/ImLukzy/portafolio-fullstack) | Personal portfolio with built-in CMS | React · Tailwind · Neon PostgreSQL · Cloudflare R2 |
+| **Fibertell S.A.C.** | Intern, Jan–Mar 2026 | Frontend · Backend · REST APIs · Scrum |
 
-## 🔪 core skills
+## core skills
 
 <div align="center">
 
@@ -52,22 +52,3 @@ const lukzy = {
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
-
-## 🩸 activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ImLukzy&show_icons=true&hide_border=false&bg_color=0d0000&title_color=ff1a1a&icon_color=b30000&text_color=e8caca&border_color=5a0000&ring_color=ff1a1a&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLukzy&layout=compact&langs_count=6&bg_color=0d0000&title_color=ff1a1a&text_color=e8caca&border_color=5a0000&border_radius=12" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=ImLukzy&background=0D0000&border=5A0000&stroke=5A0000&ring=FF1A1A&fire=FF1A1A&currStreakNum=FFFFFF&sideNums=FF1A1A&currStreakLabel=FF1A1A&sideLabels=E8CACA&dates=8A5050&border_radius=12" alt="GitHub streak"/>
-
-<img width="100%" src="https://ghchart.rshah.org/d10000/ImLukzy" alt="Contribution chart"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<div align="center">
-<sub>🩸 the ghost is watching · <a href="https://portafolio-lukas.vercel.app/">Lukzy.com</a> 🩸</sub>
-</div>
