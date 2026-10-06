@@ -63,7 +63,7 @@ const lukzy = {
 
 <img src="https://streak-stats.demolab.com?user=ImLukzy&background=0D0000&border=5A0000&stroke=5A0000&ring=FF1A1A&fire=FF1A1A&currStreakNum=FFFFFF&sideNums=FF1A1A&currStreakLabel=FF1A1A&sideLabels=E8CACA&dates=8A5050&border_radius=12" alt="GitHub streak"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/ImLukzy/ImLukzy/output/blood-snake.svg" alt="Blood snake eating contributions"/>
+<img width="100%" src="https://ghchart.rshah.org/d10000/ImLukzy" alt="Contribution chart"/>
 
 </div>
 
