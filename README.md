@@ -6,7 +6,7 @@
 
 <a href="https://portafolio-lukas.vercel.app/"><img src="https://img.shields.io/badge/Lukzy.com-8a0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8a0000" alt="Portfolio"/></a>
 <a href="mailto:iam.lukzy@gmail.com"><img src="https://img.shields.io/badge/iam.lukzy-8a0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8a0000" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/lukas-antonio-melgar-casimiro-90b41b3a7/"><img src="https://img.shields.io/badge/LinkedIn-8a0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8a0000" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/LukasMelgar/"><img src="https://img.shields.io/badge/LinkedIn-8a0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8a0000" alt="LinkedIn"/></a>
 <a href="https://x.com/LukzyM4lgar"><img src="https://img.shields.io/badge/X-8a0000?style=for-the-badge&logo=x&logoColor=white&labelColor=8a0000" alt="X"/></a>
 
 </div>
